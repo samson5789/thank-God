@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+header {
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    margin-left: 400px;
+    margin-top:100px;
+    border-radius: 60px;
+    box-shadow: inset;
+    background-image: url(apple_glass-1920x1200.jpg)
+}
+
+.rite p {
+    margin-top:220px;
+    margin-left:100px;
+    font-size: large;
+    font-family: sans-serif;
+    color:yellow;
+    
+}
+
+
+    
